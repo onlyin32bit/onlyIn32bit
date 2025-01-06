@@ -1,5 +1,7 @@
 # console.log('hi guys!');
 
+High School student in Vietnam
+
 ## About Me
 
 - **Languages:** JavaScript, TypeScript, Python, Dart
