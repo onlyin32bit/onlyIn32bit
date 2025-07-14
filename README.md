@@ -1,4 +1,5 @@
-# console.log('hi guys!');
+# `console.log('hi');`
+> Nice to meet you!
 
 High School student in Vietnam
 
