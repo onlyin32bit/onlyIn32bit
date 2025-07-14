@@ -8,6 +8,5 @@ High School student in Vietnam
 - **Library & Frameworks:** Svelte & SvelteKit, Vue & Nuxt, Flutter, Prisma
 - **Others:** Node, Vite
 - **Technologies:** Git, Docker
-- **Learning:** Machine Learning
 
 
