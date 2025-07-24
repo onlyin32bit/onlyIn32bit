@@ -1,4 +1,7 @@
 # `console.log('nice to meet you!');`
+
+![](https://komarev.com/ghpvc/?username=onlyin32bit&style=for-the-badge&color=green&label=VIEWS)
+
 > have a nice day
 
 <div align="center">
